@@ -1,20 +1,20 @@
 {
-  "name": "PI-Media/json-api"
-  "description": ""
-  "keywords": [
-    "wordpress",
-    "JSON-API",
-    "plugin"
-  ],
-  "homepage": "https://github.com/PI-Media/json-api",
-  "authors": [
-    {
-      "name": "Ali Qureshi",
-      "homepage": "https://www.parorrey.com/solutions/json-api-user-plus/"
-    }  
-  ],
-"type": "wordpress-plugin",
-"require": {
-  "php": ">=5.6"
-}
+    "name": "PI-Media/json-api",
+    "description": "JSON-API to use with JSON-API-AUTH and JSON-API-USER for user auth",
+    "keywords": [
+        "wordpress",
+        "JSON-API",
+        "plugin"
+    ],
+    "homepage": "https://github.com/PI-Media/json-api",
+    "authors": [
+        {
+            "name": "Ali Qureshi",
+            "homepage": "https://www.parorrey.com/solutions/json-api-user-plus/"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    }
 }
